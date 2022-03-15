@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="new_task.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="lib/cjs/new_task.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="dbgTaskName" value="1" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
